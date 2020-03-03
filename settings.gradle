@@ -1,0 +1,6 @@
+rootProject.name = '5Ions-prediction'
+
+include 'prediction.client'
+include 'prediction.model'
+include 'prediction.service'
+include 'prediction.controller'
