@@ -1,0 +1,7 @@
+dependencies {
+    implementation project(':prediction.model')
+
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    compile group: 'nz.ac.waikato.cms.weka', name: 'weka-stable', version: '3.8.0'
+}
